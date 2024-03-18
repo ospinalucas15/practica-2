@@ -15,6 +15,10 @@ int main()
     std::string a = "hola";
     problema4(a);
     cout << endl;
+    problema6();
+    cout << endl;
+    problema8();
+    cout << endl;
 
     return 0;
 }

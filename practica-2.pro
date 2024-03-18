@@ -8,7 +8,9 @@ SOURCES += \
         problema1.cpp \
         problema2.cpp \
         problema3.cpp \
-        problema4.cpp
+        problema4.cpp \
+        problema6.cpp \
+        problema8.cpp
 
 HEADERS += \
     problemas.h
