@@ -16,4 +16,15 @@ int problema10();
 int problema11();
 bool problema12(vector<vector<int>>& cuadrado);
 
+//Problema 14
+const int N = 5;
+void imprimirMatriz(int matriz[N][N]);
+void rotar90Grados(int matriz[N][N], int matrizRotada[N][N]);
+int problema14();
+//Problema 17
+int sumaDivisores(int numero);
+int sumarAmigables(int limite);
+int problema17();
+
+
 #endif // PROBLEMAS_H

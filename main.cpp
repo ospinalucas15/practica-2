@@ -70,5 +70,10 @@ int main()
     }
     // Final problema 12
 
+    cout << endl;
+    problema14();
+    cout << endl;
+    problema17();
+
     return 0;
 }

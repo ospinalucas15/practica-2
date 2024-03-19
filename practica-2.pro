@@ -16,7 +16,10 @@ SOURCES += \
         problema9.cpp \
         problema10.cpp \
         problema11.cpp \
-        problema12.cpp
+        problema12.cpp \
+        problema14.cpp \
+        problema17.cpp
 
 HEADERS += \
+    problema14.h \
     problemas.h
